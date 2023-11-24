@@ -10,7 +10,8 @@ Repositórios para armazenar resumos sobre Git e GitHub da [Digital Innovation O
 ## 💻 Resumo das Aulas
 | Aulas | Resumos |
 |-------| --------|
-| Gravando Alterações no Repositório Local | Aprendemos todas as etapas envolvidas. |
+| Gravando Alterações no Repositório Local | [Resumo]() |
+| Aula 2 | [Resumo]() |
 
 Dando sequência a aula anterior na qual aprendemos como criar e clonar repositórios, hoje tratamos da gravação de alteração nos repósitórios. Assim como nas outras aulas estamos utilizando o terminal do Git Bash. Por isso, os comandos listados não estão precedidos de $ já que o terminal já o fornece.
 Utilizamos alguns comandos:
